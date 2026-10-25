@@ -1,0 +1,17 @@
+{"slug":"test-v2","chip":"Procrastination","slides":[
+{"type":"cover","title":"Tu repousses <mark>tout</mark> ?","italic":"Lis ça avant demain.","sub":"Le check-in de 2 minutes qui change ta journée.","screen":{"type":"notif","items":[{"title":"⏰ Dans 20 min : ton dossier","text":"Étape 1 : ouvre le doc."}]}},
+{"type":"myth","title":"Le piège","myth":"« Je bosse mieux sous pression. »","truth":"Tu bosses <u>seulement</u> sous pression. Nuance."},
+{"type":"point","n":"1","title":"Ton cerveau fuit","italic":"le flou, pas l'effort.","body":"« Faire le dossier » est trop vague. Ton cerveau ne sait pas par où commencer."},
+{"type":"vs","title":"Même tâche,","italic":"deux façons de la voir","left":{"label":"Flou","items":["Faire le dossier","Me mettre au sport","Ranger"]},"right":{"label":"Clair","items":["Ouvrir le doc, écrire le titre","Mettre mes baskets","Vider 1 surface"]}},
+{"type":"note","title":"POV :","italic":"ta to-do à 23h47","items":["~Répondre à Léa","Faire le dossier","Faire le dossier (vraiment)","Appeler la banque","~Commander des chaussettes"]},
+{"type":"steps","title":"La méthode","italic":"en 3 étapes","items":[["Choisis UNE tâche","Pas cinq. Une."],["Donne-lui une heure","Une tâche sans heure n'existe pas."],["Réduis l'étape 1","Assez petite pour 2 minutes."]]},
+{"type":"stat","value":"2 min","title":"pour démarrer.","body":"Pas pour finir. Juste pour <b>commencer</b>."},
+{"type":"point","kicker":"Avec Daïmo","title":"Ton agenda","italic":"te rappelle tout.","body":"Le soir tu planifies, tes tâches tombent dans Google Agenda avec un rappel 20 min avant.","screen":{"type":"agenda","events":[{"time":"10:00","title":"Dossier client"},{"time":"14:00","title":"Réunion","mine":false},{"time":"18:00","title":"Sport"}]}},
+{"type":"phone","title":"Ta série","italic":"te tient.","screen":{"type":"streak","days":21,"record":21,"level":"Voix qui s’affirme"}},
+{"type":"quote","text":"Commencer, c'est déjà la moitié du travail.","who":"Proverbe"},
+{"type":"big","title":"Pas plus de motivation.","italic":"Un meilleur système."},
+{"type":"list","style":"cross","title":"Arrête","italic":"ces 3 excuses","items":["« J'ai pas le temps »","« Je commence lundi »","« Je suis pas d'humeur »"]},
+{"type":"point","side":"left","title":"Installe-la","italic":"en 10 secondes.","body":"Safari → Partager → Sur l'écran d'accueil.","screen":{"type":"home","pos":6}},
+{"type":"phone","title":"Le coach","italic":"quand tu bloques","screen":{"type":"chat","msgs":[["user","J'arrive pas à m'y mettre"],["coach","Normal, c'est flou. Quelle est la toute première action ?"],["user","Ouvrir le doc ?"],["coach","Parfait. Fais juste ça. Je te relance dans 10 min."]]}},
+{"type":"phone","title":"Tes objectifs","italic":"visibles.","screen":{"type":"goals","goals":[{"emoji":"🏃","name":"Courir 3×/sem","pct":66},{"emoji":"💶","name":"Épargner","pct":40},{"emoji":"😴","name":"Dormir avant minuit","pct":80}]}},
+{"type":"cta","title":"Teste Daïmo 3 jours.","italic":"Gratuit, sans carte."}]}
